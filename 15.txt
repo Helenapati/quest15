@@ -1,0 +1,18 @@
+public class {
+    
+    public static void main(String[] args) {
+        
+    X = m >= 5;
+     System.out.println("Aprovado:" + X);
+    Y = a < 5;
+     System.out.println("Reprovado:" Y); 
+     
+    H = b < 6; 
+     System.out.println("Aprovado:" + H);
+    G = 4 <= 6;
+     System.out.println("Verificação Suplementar:" + G);
+    I = b < 4; 
+     System.out.println("Reprovado:" + I);
+     
+    }
+}
